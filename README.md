@@ -3,9 +3,8 @@ Built a pipeline for image generation(Stable Diffusion) and image captioning(Bli
 
 ## Results
 
-| 📝 Prompt Image         | 🎨 Generated Image   | 🧾 Caption                           | 🧠 Prompt ↔ Caption Cosine Similarity | 🔄 Re-Generated Image   | 🖼️ Image ↔ Re-Gen Image Cosine Similarity |
-| ----------------------- | -------------------- | ------------------------------------ | ------------------------------------- | ----------------------- | ------------------------------------------ |
-| ![](images/prompt1.png) | ![](images/gen1.png) | *A cat wearing sunglasses*           | **0.89**                              | ![](images/re_gen1.png) | **0.84**                                   |
-| ![](images/prompt2.png) | ![](images/gen2.png) | *A rocket launching at night*        | **0.91**                              | ![](images/re_gen2.png) | **0.86**                                   |
-| ![](images/prompt3.png) | ![](images/gen3.png) | *A person hiking in snowy mountains* | **0.87**                              | ![](images/re_gen3.png) | **0.83**                                   |
+| Prompt | ➡️ | Gen Image | ➡️ | Caption | ➡️ | Re-Gen Image | 📏 Cosine Sim |
+|--------|----|-----------|----|---------|----|--------------|----------------|
+| ![](images/1/prompt.png) | ➡️ | ![](images/1/gen.png) | ➡️ | ![](images/1/cap.png) | ➡️ | ![](images/1/re_gen.png) | Prompt↔Caption: *![](images/1/pc.png) <br> Image↔Re-Gen: ![](images/1/ir.png) |
+                          |
 
