@@ -3,8 +3,10 @@ Built a pipeline for image generation(Stable Diffusion) and image captioning(Bli
 
 ## Results
 
-| Prompt | ➡️ | Gen Image | ➡️ | Caption | ➡️ | Re-Gen Image | 📏 Cosine Sim |
-|--------|----|-----------|----|---------|----|--------------|----------------|
-| ![](images/1/prompt.png) | ➡️ | ![](images/1/gen.png) | ➡️ | ![](images/1/cap.png) | ➡️ | ![](images/1/re_gen.png) | Prompt↔Caption: *![](images/1/pc.png) <br> Image↔Re-Gen: ![](images/1/ir.png) |
-                          |
+| 📝 Prompt  | 🎨 Gen Image | 🧾 Caption | 🎨 Re-Gen Image |
+|----------------|--------------|------------|-----------------|
+| ![](images/prompt1.png) | ![](images/gen1.png) | ![](images/cap_re_gen1.png) | ![](images/re_gen1.png) |
+| ![](images/prompt2.png) | ![](images/gen2.png) | ![](images/cap_re_gen2.png) | ![](images/re_gen2.png) |
+| ![](images/prompt3.png) | ![](images/gen3.png) | ![](images/cap_re_gen3.png) | ![](images/re_gen3.png) |
+
 
