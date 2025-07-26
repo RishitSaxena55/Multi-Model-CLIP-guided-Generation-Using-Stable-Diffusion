@@ -1,5 +1,5 @@
 # Multi-Model-CLIP-guided-Generation-Using-Stable-Diffusion
-Built a pipeline for image generation(Stable Diffusion) and image captioning(Blip) and comparing results using cosine similarity
+Built a pipeline for **Image Generation (Stable Diffusion)** and **Image Captioning (Blip)** and comparing results using cosine similarity
 
 ## Results
 
